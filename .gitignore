@@ -1,0 +1,5 @@
+#folders
+py_face_detection/faces
+
+#files
+py_face_detection/haarcascade_frontalface_default.xml
