@@ -1,3 +1,7 @@
+# TheAIProject
+
+I have been wanting to get into AI for a while now and so I decided to just go for it. This repository will have multiple amounts of tools that use AI to complete certain tasks.
+
 ## Other
 
 Support us by buying awsome merch on our [Teespring page](https://teespring.com/it/stores/gspteck-2).
