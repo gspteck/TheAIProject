@@ -1,0 +1,34 @@
+{
+    "intents": [
+        {
+            "tag": "greetings",
+            "patterns": ["hello","hey","hi","good day","greetings","what's up?","how's it going?"],
+            "responses": ["hello!","hey!","what can i do for you?"]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": ["cya","see you later","goodbye","i am leaving","have a good day","bye","see ya"],
+            "responses": ["sad to see you go","bye","goodbye!"]
+        },
+        {
+            "tag": "name",
+            "patterns": ["name","what's your name?","what should i call you?","who are you?"],
+            "responses": ["my name is Nibo"]
+        },
+        {
+            "tag": "shop",
+            "patterns": ["i would like to buy something","what are your products?","what product do you recommend?","what are you selling?"],
+            "responses": ["i would recommend the yellow tshirt","we have tshirts","we sell tshirts"]
+        },
+        {
+            "tag": "hours",
+            "patterns": ["when are you guys open?","what are your work hours?","work hours"],
+            "responses": ["we are open 24/7"]
+        },
+        {
+            "tag": "stocks",
+            "patterns": ["what stocks do i own?","list my stocks","how are my shares","what am i investing in?","what companies do i invest in?"],
+            "responses": ["you own GOOG"]
+        }
+    ]
+}

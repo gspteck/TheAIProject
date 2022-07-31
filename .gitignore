@@ -1,5 +1,12 @@
-#folders
+###FOLDERS
 py_face_detection/faces
 
-#files
+###FILES
+#face detection
+py_face_detection/__pycache__
 py_face_detection/haarcascade_frontalface_default.xml
+#chatbot
+py_chat_bot/__pycache__
+py_chat_bot/chatbot_model.h5
+py_chat_bot/words.pkl
+py_chat_bot/classes.pkl
